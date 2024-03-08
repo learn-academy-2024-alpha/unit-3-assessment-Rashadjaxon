@@ -1,6 +1,6 @@
 import React from "react"
-
-const Card = () => {
+// the card component needed to take hand as a prop(hand was undifined)
+function Card({ hand }) {
   return (
     <div className="handStyles">
       {hand.map((card, index) => {
@@ -13,3 +13,7 @@ const Card = () => {
     </div>
   )
 }
+
+
+//needs to be exported
+export default Card

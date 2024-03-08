@@ -39,13 +39,13 @@ PRs should be posted _before_ class begins on Monday, March 4, 2024.
 
 1. What are three (3) syntax differences between HTML and JSX?
 
--
--
--
+- JSX is a JS syntax extension
+- JSX expressions must have one parent element
+-to create a class in JSX we use "className", in HtML we use class
 
-2. What is yarn? What file(s) are modified when you run the command yarn in your terminal?
+2. What is yarn? What file(s) are modified when you run the command yarn in your terminal? Yarn manages packages that are in JS. Yarn modifies package.json and yarn.lock
 
-3. What is the difference between state values and props in React?
+3. What is the difference between state values and props in React? State allows changes to its internal data using setState. while props are immutable data passed from parent to child components allowing components to be changed externally
 
 4. STRETCH (optional): What is the difference between a div tag and a span tag?
 
