@@ -53,9 +53,9 @@ PRs should be posted _before_ class begins on Monday, March 4, 2024.
 
 1. Object-oriented programming:
 
-2. Ruby:
+2. Ruby: Ruby is an object-oriented language known for its simplicity and readabilty. Featuring dynamic lingo and Gems
 
-3. Ruby Hashes:
+3. Ruby Hashes: A collection of key: value pairs, of any data type. Created using curly braces
 
 ---
 
